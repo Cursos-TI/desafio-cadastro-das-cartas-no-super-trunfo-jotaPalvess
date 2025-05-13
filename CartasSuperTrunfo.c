@@ -6,6 +6,10 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
+
+// TODO O DESAFIO FOI FEITO COM BASE NO QUE FOI PEDIDO NO README.md
+
+
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
